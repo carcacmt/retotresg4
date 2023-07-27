@@ -9,8 +9,8 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.desaextremo</groupId>
-	<artifactId>retotres</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<artifactId>mercader</artifactId>
+	<version>1.0</version>
 	<name>retotres</name>
 	<description>retotres</description>
 	<properties>
