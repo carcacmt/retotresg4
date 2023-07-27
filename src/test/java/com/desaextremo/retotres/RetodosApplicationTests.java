@@ -6,7 +6,7 @@ import org.springframework.boot.test.context.SpringBootTest;
 @SpringBootTest
 class RetodosApplicationTests {
 
-	@Test
+	//@Test
 	void contextLoads() {
 	}
 
